@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CompanionClient">
+    <CLASSES>
+      <root url="jar://D:/javax.ejb-api-3.2.jar!/" />
+      <root url="file://D:/Companion System Test Client/Companion System Test Client/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/Companion System Test Client/Companion System Test Client/lib" recursive="false" />
+  </library>
+</component>
